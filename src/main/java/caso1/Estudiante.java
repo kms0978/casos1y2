@@ -1,6 +1,5 @@
 public class Estudiante {
 
-	Escuela escuela;
 	private String nombre;
 	private int edad;
 	private Mascota mascota;

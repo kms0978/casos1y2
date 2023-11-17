@@ -1,7 +1,10 @@
+import java.util.*;
+
 public class Escuela {
 
 	private ArrayList<Estudiante> estudiantes;
 	private String nombreEscuela;
+	Collection<Estudiante> estudiante;
 
 	public ArrayList<Estudiante> getEstudiantes() {
 		return this.estudiantes;

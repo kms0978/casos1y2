@@ -1,3 +1,4 @@
+package caso1;
 import java.util.*;
 
 public class Mascota {
