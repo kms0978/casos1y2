@@ -1,8 +1,9 @@
+import java.util.*;
+
 public class Departamento {
 
-	EmpresaNaviera empresaNaviera;
 	private String nombreDepartamento;
-	private List<GrupoProyecto> grupoProyectos;
+	private Collection<List<GrupoProyecto>> grupoProyectos;
 
 	/**
 	 * 

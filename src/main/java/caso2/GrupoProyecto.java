@@ -1,7 +1,8 @@
+import java.util.*;
+
 public class GrupoProyecto {
 
-	Departamento departamento;
-	private List<Empleado> empleados;
+	private Collection<List<Empleado>> empleados;
 
 	/**
 	 * 

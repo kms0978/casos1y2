@@ -1,8 +1,10 @@
+import java.util.*;
+
 public class Persona {
 
 	Casa casa;
 	private String nombre;
-	private String moto;
+	private Collection<String> moto;
 
 	/**
 	 * 

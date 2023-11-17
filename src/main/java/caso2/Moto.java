@@ -1,6 +1,5 @@
 public class Moto {
 
-	Persona persona;
 	private String modelo;
 
 	/**

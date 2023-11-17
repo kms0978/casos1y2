@@ -1,6 +1,8 @@
+import java.util.*;
+
 public class CondominioNuevoAmanecer {
 
-	private List<Casa> casas;
+	private Collection<List<Casa>> casas;
 
 	/**
 	 * 

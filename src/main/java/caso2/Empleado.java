@@ -1,6 +1,5 @@
 public class Empleado extends Persona {
 
-	GrupoProyecto grupoProyecto;
 	private String cargo;
 	private String departamento;
 

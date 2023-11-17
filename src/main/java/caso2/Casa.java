@@ -2,7 +2,6 @@ import java.util.*;
 
 public class Casa {
 
-	CondominioNuevoAmanecer condominio;
 	Collection<Persona> persona;
 	private List<Persona> personas;
 

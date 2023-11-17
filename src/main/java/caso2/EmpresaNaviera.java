@@ -1,7 +1,9 @@
+import java.util.*;
+
 public class EmpresaNaviera {
 
 	private String nombreEmpresa;
-	private List<Despartamento> departamentos;
+	private Collection<List<Despartamento>> departamentos;
 
 	/**
 	 * 
