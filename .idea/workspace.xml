@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c64fe8a0-0b48-4417-a412-8f2520cd0b88" name="Changes" comment=".">
+    <list default="true" id="c64fe8a0-0b48-4417-a412-8f2520cd0b88" name="Changes" comment="se agregan las clases del caso2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/caso2/Casa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/CondominioNuevoAmanecer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/caso2/CondominioNuevoAmanecer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2YGnPNryOJmlYpVmNwYbUxe6TIl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,16 +38,19 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alumno/IdeaProjects/evidencia10&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Alumno/IdeaProjects/evidencia10",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.scopes"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -119,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700266263426</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="se agregan las clases del caso2">
+      <created>1700267087246</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700267087246</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +155,7 @@
     <MESSAGE value="se sube las clases de caso 1 y su diagrama uml" />
     <MESSAGE value="se sube las clases de caso 2 y su diagrama uml" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="se agregan las clases del caso2" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agregan las clases del caso2" />
   </component>
 </project>
