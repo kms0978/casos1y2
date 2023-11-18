@@ -1,3 +1,4 @@
+package caso2;
 public class Empleado extends Persona {
 
 	private String cargo;

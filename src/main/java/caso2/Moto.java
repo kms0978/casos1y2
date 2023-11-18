@@ -1,3 +1,4 @@
+package caso2;
 public class Moto {
 
 	private String modelo;

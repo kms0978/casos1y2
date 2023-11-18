@@ -1,5 +1,6 @@
 import java.util.*;
 
+package caso2;
 public class EmpresaNaviera {
 
 	private String nombreEmpresa;

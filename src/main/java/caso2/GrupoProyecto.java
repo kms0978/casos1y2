@@ -1,3 +1,4 @@
+package caso2;
 import java.util.*;
 
 public class GrupoProyecto {
