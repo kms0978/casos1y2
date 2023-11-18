@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c64fe8a0-0b48-4417-a412-8f2520cd0b88" name="Changes" comment="se sube las clases de caso 1 y su diagrama uml">
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/Casa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/CondominioNuevoAmanecer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/Departamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/Empleado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/EmpresaNaviera.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/GrupoProyecto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/Moto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caso2/Persona.java" beforeDir="false" />
+    <list default="true" id="c64fe8a0-0b48-4417-a412-8f2520cd0b88" name="Changes" comment="se sube las clases de caso 2 y su diagrama uml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +28,12 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -45,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/Alumno/IdeaProjects/evidencia10",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "project.scopes"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700264583422</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="se sube las clases de caso 2 y su diagrama uml">
+      <created>1700265345106</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700265345106</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +133,7 @@
     <MESSAGE value="se sube diagrama uml del caso1" />
     <MESSAGE value="se sube diagrama uml del caso2" />
     <MESSAGE value="se sube las clases de caso 1 y su diagrama uml" />
-    <option name="LAST_COMMIT_MESSAGE" value="se sube las clases de caso 1 y su diagrama uml" />
+    <MESSAGE value="se sube las clases de caso 2 y su diagrama uml" />
+    <option name="LAST_COMMIT_MESSAGE" value="se sube las clases de caso 2 y su diagrama uml" />
   </component>
 </project>
